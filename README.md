@@ -1,1 +1,2 @@
 # Predicting-the-Market-Value-of-Football-Players---ANOVA-model
+The file named 'Analysis of Variance' contains a detailed data analysis of Association Football players in order to predict their market value considering the league they play in and the position they play at as the predictor variables. The report includes Analysis of Variance, Regression Diagnostics, Check for Interaction and Main Effects, and Validation of Regression Assumptions. 
